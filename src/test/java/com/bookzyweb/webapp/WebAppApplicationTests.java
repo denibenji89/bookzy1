@@ -1,10 +1,9 @@
-package com.bookzy.webapp;
+package com.bookzyweb.webapp;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.Assert.*;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.junit.*;
-
 @SpringBootTest
 class WebAppApplicationTests {
 
